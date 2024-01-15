@@ -4,5 +4,3 @@ I'm Blockchain(Web3/Full-Stack) developer with proven experience for over 6 year
 - 📫 How to reach me: <a href = "https://stevendevblockchain.vercel.app/">my portfolio</a>
 - 😄 Pronouns: He/Him
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
