@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm ```Blockchain (Web3/Full-Stack)``` developer with proven experience for over 6 years. I'm concentrate on ``` Web, dApp, Samrt Contract development ```. I have worked on ``` NFT, p2e games, casino, Defi, DEX, DAO ``` projects as well as ``` Frontend development ```. I'm also have been working as ``` Full-Stack Engineer ```, mainly building perfect APIs, with skills in React, Next.js, Typescript, NodeJS and the other frameworks.
+
+I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of proven experience. My focus is on ``` Web, dApp, Smart Contract development ``` on the Solana chain (as well as Ethereum). I have worked on ``` NFTs, play-to-earn games, casinos, DeFi, DEX, and DAO projects ```, as well as frontend development. Additionally, I have experience working as a ``` Full-Stack Engineer ```, primarily building robust APIs, with skills in ``` React, Next.js, TypeScript, NodeJS ``` , and other frameworks.
 
 - 📫 How to reach me: <a href = "https://stevendevblockchain.vercel.app/portfolio.html">my portfolio</a>
 - 😄 Pronouns: He/Him
