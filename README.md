@@ -6,7 +6,7 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 - 😄 Pronouns: He/Him
 - <img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="20" title="Phone">
 - ---
-<h2>Link To:</h2> <br/><br/>
+<h2>Link To:</h2>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="60" title="Discord"></a>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="60" title="Discord"></a>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="60" title="Discord"></a>
