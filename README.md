@@ -5,7 +5,7 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 ### Link to:
 <a href = "https://discord.com/channels/@user/1169601798970036317"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="60" title="Discord"></a>
 <a href = "https://web.skype.com/8:live:.cid.27aeb1981557f74c?inviteId=yG5gKNXqR69e&correlationId=d1e155b3-f289-4269-b589-b4a9c6b75bd6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="60" title="Skype"></a>
-<a href = "https://twitter.com/sol_maxi_dev"><img src="" width="60" src="https://edent.github.io/SuperTinyIcons/images/svg/Twitter.svg" title="Twitter"></a>
+<a href = "https://twitter.com/sol_maxi_dev"><img src="" width="60" src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" title="Twitter"></a>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="60" title="Telegram"></a>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="60" title="WhatsApp"></a>
 ### Skills in:
