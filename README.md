@@ -5,6 +5,6 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 - 📫 How to reach me: <a href = "https://stevendevblockchain.vercel.app/portfolio.html">my portfolio</a>
 - 😄 Pronouns: He/Him
 - ---
-<img src="https://edent.github.io/SuperTinyIcons/images/png/Discord.png" width="100" />
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="100" title="Discord">
 ---
 
