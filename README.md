@@ -23,3 +23,4 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="60" title="Python"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="60" title="Go"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="60" title="Angular.svg"></a>
+<a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mysql.svg" width="60" title="Angular.svg"></a>
