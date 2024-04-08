@@ -6,7 +6,7 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 - 😄 Pronouns: He/Him
 - <img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="20" title="Phone">
 - ---
-Link To: <br/><br/><br/>
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord">
+Link To: <br/><br/>
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="60" title="Discord">
 ---
 
