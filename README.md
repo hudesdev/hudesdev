@@ -25,4 +25,5 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="60" title="Angular.svg"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mysql.svg" width="60" title="MySQL.svg"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mongodb.svg" width="60" title="MongoDB.svg"></a>
+<a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="60" title="MongoDB.svg"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="60" title="Django Project"></a>
