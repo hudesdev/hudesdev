@@ -8,3 +8,5 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="60" title="Discord"></a>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="60" title="Discord"></a>
 <a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="60" title="Discord"></a>
+<h2>Skills in:</h2>
+<a href = "https://stevendevblockchain.vercel.app/portfolio.html"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="60" title="Discord"></a>
