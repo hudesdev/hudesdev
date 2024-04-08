@@ -17,6 +17,7 @@ I am a ``` Blockchain (Web3/Full-Stack) ``` developer with over 6 years of prove
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="60" title="Vue"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="60" title="Rust"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="60" title="Solidity"></a>
+<a href = "#"><img src="https://camo.githubusercontent.com/bb5fb828a63292e68a53977854a258e04976ed0b334cb705767d968c6231bb2a/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f532f736f6c616e612d736f6c2d6c6f676f2d313238323841443233442d7365656b6c6f676f2e636f6d2e706e673f763d363337393434343438383930303030303030" width="60" title="Solana"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="60" title="Ethereum"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="60" title="Bitcoin"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="60" title="Node.js"></a>
