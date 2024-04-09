@@ -6,9 +6,9 @@
 ### Link to:
 <a href = "https://discord.com/channels/@user/1169601798970036317"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="60" title="Discord"></a>
 <a href = "https://web.skype.com/8:live:.cid.27aeb1981557f74c?inviteId=yG5gKNXqR69e&correlationId=d1e155b3-f289-4269-b589-b4a9c6b75bd6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="60" title="Skype"></a>
-<a href = "https://twitter.com/sol_maxi_dev"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="60" title="Twitter"></a>
-<a href = "https://t.me/HarmoniTechTeam"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="60" title="Telegram"></a>
-<a href = "https://wa.me/13137423660"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="60" title="WhatsApp"></a>
+<a href = "https://twitter.com/sol_maxi_dev"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="30" title="Twitter"></a>
+<a href = "https://t.me/HarmoniTechTeam"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="30" title="Telegram"></a>
+<a href = "https://wa.me/13137423660"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="30" title="WhatsApp"></a>
 ### Skills in:
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="60" title="HTML5"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="60" title="Javascript"></a>
