@@ -17,7 +17,7 @@
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="60" title="Vue"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="60" title="Rust"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="60" title="Solidity"></a>
-<a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/web3c.svg" width="60" title="Solidity"></a>
+<a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/webflow.svg" width="60" title="Solidity"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="60" title="Ethereum"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="60" title="Bitcoin"></a>
 <a href = "#"><img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="60" title="Node.js"></a>
