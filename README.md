@@ -1,7 +1,7 @@
  ### Hi there
 <img src="https://media.giphy.com/media/n1NLjLW22bhxUKCfyD/giphy.gif" width="80" title="Discord">
 
->I am a ``` Full-Stack ``` developer with over 6 years of proven experience. My focus is on ``` React, Vue.js, blockchain web3 development on the Solana chain (as well as Ethereum)```. I have worked on ``` NFTs, play-to-earn games, casinos, DeFi, DEX, and DAO projects ```, as well as frontend development. Additionally, I have experience working as a ``` Full-Stack Engineer ```, primarily building robust APIs, with skills in ``` React, Next.js, TypeScript, NodeJS ``` , and other frameworks.
+>I am a ``` Full-Stack ``` developer with over 6 years of proven experience. My focus is on ``` React, Vue.js, blockchain web3 development on the Solana chain (as well as Ethereum)```. I have worked on ``` Ecommerce, Shopify games, Casino Game and Web3 integreation projects ```, as well as frontend development. 
 
 ### Link to:
 <a href = "https://discord.com/channels/@user/1227306167399612488"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="50" title="Discord"></a>
